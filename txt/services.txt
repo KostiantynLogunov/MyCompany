@@ -1,0 +1,23 @@
+Android 		
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text..	
+fa-android 	
+---------------------------------
+Apple IOS 		
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
+fa-apple
+---------------------------------
+Design 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.	
+fa-dropbox 
+---------------------------------
+Concept 	
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.	
+fa-html5 
+---------------------------------	
+User Research 		
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.	
+fa-slack 	
+---------------------------------
+User Experience 		
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.
+fa-users 	

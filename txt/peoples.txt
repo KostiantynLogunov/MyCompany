@@ -1,0 +1,22 @@
+Tom Rensed
+Chief Executive Officer
+team_pic1.jpg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.
+
+
+----------------------------------
+
+Kathren Mory
+Vice President
+team_pic2.jpg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.
+
+----------------------------------
+
+Lancer Jack
+Senior Manager
+team_pic3.jpg
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin consequat sollicitudin cursus. Dolor sit amet, consectetur adipiscing elit proin consequat.
